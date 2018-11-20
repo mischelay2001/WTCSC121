@@ -1,0 +1,10 @@
+1423,7.88,Assorted Markers (12pk)
+1752,4.99,Binder - 1 1/2" 
+2159,0.99,Ink Pens (3pk)
+2368,5.25,Stapler
+2487,12.52,Book Bag
+4178,8,Highlighters (12pk)
+5206,4.25,Pencil Pouch
+6112,5.77,3-Hole Punch
+6245,4.88,Binder - 1" 
+6625,2.99,Mechanical Pencils (3pk)

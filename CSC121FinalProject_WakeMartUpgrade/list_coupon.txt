@@ -1,0 +1,5 @@
+7125,0.99,PaperMate
+7468,1.99,Sharpie
+7612,1.49,Crayola
+8207,0.59,Bic
+8546,1.29,Swingline
